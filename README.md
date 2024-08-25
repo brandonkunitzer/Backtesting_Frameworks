@@ -4,7 +4,7 @@
 These two projects were created to provide a frameowrk for backtesting trading strategies. As long as rules for a strategy can be defined, then it can be backtested using either the vectorized or iterative (event-based) backtesting framework. This project was created with the following goals:
 
 * To enable easy and free backtesting for any trading strategy
-* Graphing results of strategies
+* Displaying results of strategies
 
 
 ### Vectorized backtester in action:
