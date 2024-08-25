@@ -32,3 +32,14 @@ Both frameworks were developed in python. I used yfinance as a source of the fin
     </td>
  </tr>
 </table>
+
+### Steps for using class:
+
+
+
+
+
+
+
+
+
