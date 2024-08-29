@@ -8,7 +8,7 @@ These two projects were created to provide a frameowrk for backtesting trading s
 
 
 ### Vectorized backtester in action:
-<img width="1256" alt="Screenshot 2024-08-25 at 12 21 11 AM" src="https://github.com/user-attachments/assets/c45816dc-b073-41b0-8141-72aabf5bea38">
+<img width="1100" alt="Screenshot 2024-08-29 at 12 56 53 PM" src="https://github.com/user-attachments/assets/04f74243-bc8f-4c96-a596-58827970ce23">
 
 ### Event based backtester in action:
 <img width="661" alt="Screenshot 2024-08-25 at 12 22 05 AM" src="https://github.com/user-attachments/assets/457783dc-3f82-486c-935b-f62e9155e348">
